@@ -1,0 +1,9 @@
+Homepage:A trip to Beijing
+
+logo:link to homepage
+
+The Mainpage will contain a video and basic information(links) for the web.
+
+other pages(stay,eat,play,culture,shop) will include pictures and words introduction.
+
+Contact will contain all of the contact information (facebook,twitter etc.)and emergency calls when you traveling to Beijing
